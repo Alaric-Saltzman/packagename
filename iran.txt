@@ -84,3 +84,4 @@ net.iGap
 org.rajman.neshan.traffic.tehran.navigator
 shop.snapp
 taxi.tap30.driver
+com.maskanmobilebank
